@@ -8,3 +8,4 @@ Includes:
 -commands
 
 -git pul
+- git push
